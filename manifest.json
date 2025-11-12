@@ -1,0 +1,25 @@
+{
+  "name": "티켓파파 - 전국 여행지 할인 티켓",
+  "short_name": "티켓파파",
+  "description": "전국 여행지 할인 티켓 판매",
+  "start_url": "https://ticketpapa.lsdesign.co.kr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4d525b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn.imweb.me/upload/S2021082178e8dcc204af4/100d50a94ab61.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.imweb.me/upload/S2021082178e8dcc204af4/100d50a94ab61.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
